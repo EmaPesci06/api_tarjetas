@@ -1,0 +1,58 @@
+{
+    "tarjetas": [
+        {
+            "id": 1234567890,
+            "numero de la tarjeta": 9876543210,
+            "fecha de vencimiento": "2023-12-31",
+            "marca ": "Visa"
+        },
+        {
+            "id": 2345678901,
+            "numero de la tarjeta": 8765432109,
+            "fecha de vencimiento": "2024-06-30",
+            "marca ": "Mastercard"
+        },
+        {
+            "id": 3456789012,
+            "numero de la tarjeta": 7654321098,
+            "fecha de vencimiento": "2025-03-31",
+            "marca ": "American Express"
+        },
+        {
+            "id": 4567890123,
+            "numero de la tarjeta": 6543210987,
+            "fecha de vencimiento": "2026-09-30",
+            "marca ": "Discover"
+        },
+        {
+            "id": 5678901234,
+            "numero de la tarjeta": 5432109876,
+            "fecha de vencimiento": "2027-04-30",
+            "marca ": "Visa"
+        },
+        {
+            "id": 6789012345,
+            "numero de la tarjeta": 4321098765,
+            "fecha de vencimiento": "2028-11-30",
+            "marca ": "Mastercard"
+        },
+        {
+            "id": 7890123456,
+            "numero de la tarjeta": 3210987654,
+            "fecha de vencimiento": "2029-07-31",
+            "marca ": "American Express"
+        },
+        {
+            "id": 8901234567,
+            "numero de la tarjeta": 2109876543,
+            "fecha de vencimiento": "2030-02-28",
+            "marca ": "Discover"
+        },
+        {
+            "id": 9012345678,
+            "numero de la tarjeta": 1098765432,
+            "fecha de vencimiento": "2031-08-31",
+            "marca ": "Visa"
+        }
+    ]
+}
